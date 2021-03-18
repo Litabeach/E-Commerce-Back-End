@@ -23,7 +23,7 @@ Update the .env file with your MySql credentials, run 'npm i', 'npm seeds' then 
 ## Usage 
 Routes can be testing using Postman.
 
-![screenshot of a GET route in Postman](assets/postman.png)
+![screenshot of a GET route in Postman](Assets/postman.png)
 
 
 ## Credits
