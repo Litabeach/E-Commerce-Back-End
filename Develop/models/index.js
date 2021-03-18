@@ -15,9 +15,6 @@ Category.hasMany(Product, {
   onDelete: 'CASCADE',
 });
 
-// * `Product` belongs to many `Tag` models, and `Tag` belongs to many `Product` models. Allow products to have multiple tags and tags to have many products by using the `ProductTag` through model.
-// > **Hint:** Make sure you set up foreign key relationships that match the column we created in the respective models.
-
 // Products belongToMany Tags (through ProductTag)
 Product.belongsToMany(Tag, {
   through: ProductTag,
