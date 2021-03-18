@@ -3,7 +3,7 @@
 ## Description 
 
 A back end for an e-commerce website that utilizes Sequelize models, MySql database and Postman. <br>
-View demo video of GET, POST, PUT and DELETE routes at: https://www.youtube.com/watch?v=hYBs30ZcN8I
+View demo video of GET, POST, PUT and DELETE routes at: https://www.youtube.com/watch?v=afYmyVpS9zA
 
 
 ## Table of Contents
